@@ -17,4 +17,4 @@ Install Jekyll: `sudo gem install jekyll`
 
 Open the project folder: `cd jekyll-smart-material`
 
-Run local Jekyll server: `jekyll serve`, it will be available at: [http://127.0.0.1:4000/](http://127.0.0.1:4000/).
+Run local Jekyll server: `jekyll serve`, it will be available at: [ChessBlog.github.io](ChessBlog.github.io).
