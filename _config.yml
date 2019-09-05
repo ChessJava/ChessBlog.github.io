@@ -3,7 +3,7 @@ title: ChessWu个人博客
 email: 249534284@qq.com
 description: Person Blog,Save Study Data,Show Myself
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
-url: "https://chessjava.github.io/blog/" # the base hostname & protocol for your site
+url: "https://chessjava.gitee.io/studydata" # the base hostname & protocol for your site
 copyright: '&copy; 2019-Now ChessWu个人博客'
 
 # Build settings
